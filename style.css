@@ -155,13 +155,13 @@ header{
   font-feature-settings: "onum";
   font-size: 19px;
   font-weight: 700;
-  height: 34.4688px;
+  height: 57px;
   padding-bottom: 16px;
   padding-left: 64.6748px;
   padding-right: 21.3374px;
   padding-top: 16px;
   text-align: start;
-  width: 415px;
+  width: 350px;
 }
 
 .img-container, .search-container{
@@ -176,9 +176,9 @@ header{
 
 .featured-articles-container{
   display: flex;
+  flex-wrap: wrap;
   position: relative;
-  /* flex-wrap: wrap; */
-  /* height: 960.063px; */
+  
 }
 
 .featured-articles-heading1{
@@ -211,7 +211,7 @@ header{
 
 
 .featured-article{
-  width: 33.33%;
+  width: 720px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -242,7 +242,6 @@ header{
 }
 
 .featured-article_writer_icon{
-  /* border: 5px solid black; */
   display: flex;
 }
 
@@ -277,8 +276,6 @@ header{
   font-feature-settings: "onum";
   font-size: 47.5458px;
   font-weight: 700;
-  /* width: 80%; */
-  /* display: flex; */
 }
 
 .featured-article_tags{
@@ -291,14 +288,17 @@ header{
 }
 
 .first-section{
-
+  display: flex;
+  flex-wrap: wrap;
+  width: 1321.59px;
+  height: 2237.89px;
 }
 
 .first-section-content{
   display: inline-block;
-  width: 25%;
-  height: 400px;
-  margin: 85px 75px;
+  width: 440px;
+  height: 574px;
+  margin: 85px 0px;
 }
 
 .first-section-content time{
@@ -442,10 +442,12 @@ margin: 10px;
   flex-wrap: wrap;
   margin: 0 auto;
   width: 1900px;
+  width:1580px;
 }
 
 .featured-article-2{
   width: 50%;
+  width: 750px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -461,7 +463,6 @@ margin: 10px;
 .featured-article_writer_icon_2{
   display: flex;
   transform: translateX(-102px);
-  /* flex-direction: column; */
 }
 
 .featured-article_writer_icon_2 span{
@@ -567,6 +568,7 @@ margin: 25px;
 
 .featured-guides-container{
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 }
 
@@ -575,8 +577,8 @@ margin: 25px;
   margin: 0 auto;
   box-shadow:rgba(0, 0, 0, 0.12) 0px 2px 6px 0px;
   height: 573px;
-  width: 550px;
-  margin: 100px;
+  width: 620px;
+  margin: 35px;
   padding: 25px;
   border-radius: 11px;
 }
@@ -628,7 +630,7 @@ margin: 25px;
 }
 
 .footer{
-  height: 600px;
+  height: 678px;
   background-color:rgb(211, 58, 44);
 }
 
@@ -682,7 +684,6 @@ text-align: center;
   font-feature-settings:"onum";
   font-size:17.7032px;
   font-style:italic;
-  /* height:30px; */
   line-height:30.3948px;
   width: 500px;
   margin: 0 auto;
