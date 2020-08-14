@@ -23,7 +23,7 @@ gradient
 - CSS
 
 ## Live Demo
-- [Live Demo Link](https://raw.githack.com/Ahmed-Benj/smashing-magazine-clone/development/index.html)
+- [Live Demo Link](https://rawcdn.githack.com/Ahmed-Benj/smashing-magazine-clone/d28de79f11bf1a775f55b2ed0744bef517eb1f4d/index.html)
 
 #### Prerequisites
 - Browser
