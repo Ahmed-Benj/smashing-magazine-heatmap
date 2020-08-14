@@ -44,4 +44,4 @@ Feel free to check them https://github.com/Ahmed-Benj/smashing-magazine-clone/is
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project !
