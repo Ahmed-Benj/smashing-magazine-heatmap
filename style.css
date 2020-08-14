@@ -109,7 +109,7 @@ html {
 header{
   display: grid;
   grid-template-columns:15% 60% 25%;
-  background-color:rgb(211,58,44);
+  background-color: #595959;
 }
 
 .logo{
@@ -125,7 +125,7 @@ header{
 
 .nav-container li a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 1rem;
   text-shadow: 1px 1px 1px rgba(0,0,0,.25);
   font-family:Mija;
@@ -220,15 +220,15 @@ header{
 }
 
 .featured-article:nth-of-type(3n+1) {
-  background-color: rgb(188,52,40);
+  background-color: #5B5B5B;
 }
 
 .featured-article:nth-of-type(3n+2) {
-  background-color: #c7372a;
+  background-color: #616161;
 }
 
 .featured-article:nth-of-type(3n+3) {
-  background-color: #b13125;
+  background-color: #565656;
 }
 
 .featured-article-1{
@@ -340,7 +340,7 @@ margin: 10px;
 
 .ad{
   height: 1001px;
-  background-image: linear-gradient(rgb(27, 113, 187) 45%, rgb(67, 153, 217) 100%);
+  background-color: #ABABAB;
   height: 1150px;
 }
 
@@ -390,7 +390,6 @@ margin: 10px;
   padding: .75em 1em;
   font-family: Mija;
   background-color: rgb(255, 255, 255);
-  color:rgb(38, 125, 204);
   font-size:26.929px;
   font-weight:700;
   border-bottom-color:rgb(255, 255, 255);
@@ -486,7 +485,7 @@ margin: 10px;
 .featured-article-figure-2 a img{
   height: 75px;
   width: 75px;
-  border: 6px solid red;
+  border: 6px solid gray;
   border-radius: 15%;
   transform: scale(0.9) rotateZ(calc(-15 * 1deg));
   transition: transform .2s ease-out;
@@ -510,7 +509,7 @@ margin: 10px;
 }
 
 .featured-smashing-book{
-  background-color: #d33a2c;
+  background-color: #666666;
   height:409.703px;
 }
 
@@ -555,7 +554,7 @@ margin: 25px;
   padding: .75em 1em;
   font-family: Mija;
   background-color: rgb(255, 255, 255);
-  color: rgb(38, 125, 204);
+  color: #666666;
   font-size: 26.929px;
   font-weight: 700;
   border-bottom-color: rgb(255, 255, 255);
@@ -595,7 +594,7 @@ margin: 25px;
 }
 
 .featured-guide-title{
-  color:rgb(25, 169, 114);
+  color:rgb(13, 14, 13);
   cursor:pointer;
   display:inline;
   font-family:Mija;
@@ -618,7 +617,7 @@ margin: 25px;
 .featured-guide button{
   padding: .75em 1em;
   font-family: Mija;
-  background-color: rgb(25, 169, 114);
+  background-color: rgb(115, 116, 115);
   color: rgb(255, 255, 255);
   font-size: 26.929px;
   font-weight: 700;
@@ -631,7 +630,7 @@ margin: 25px;
 
 .footer{
   height: 678px;
-  background-color:rgb(211, 58, 44);
+  background-color:rgb(144, 144, 144);
 }
 
 .footer-container{
@@ -639,7 +638,7 @@ text-align: center;
 }
 
 .footer-container span{
-  color:rgb(255, 255, 255);
+  color:rgb(66, 66, 66);
   display:block;
   font-family:Elena;
   font-feature-settings:"onum";
