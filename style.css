@@ -758,9 +758,9 @@ header {
 
 .footer-second-ul li a {
   color: rgb(255, 255, 255);
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
-  font-size: 17.7032px;
+  font-size: 15px;
   height: auto;
   line-height: 30.3948px;
 }
