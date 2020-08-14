@@ -110,14 +110,14 @@ body{
       format("woff");
 }
 @font-face {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   src: url("https://d33wubrfki0l68.cloudfront.net/a978f759fa0230c1e590d1bdb5a1c03ceb538cec/fed6b/fonts/elenawebregular/elenawebregular.woff2")
       format("woff2"),
     url("https://d33wubrfki0l68.cloudfront.net/9c2752fab289f61c6ed3a1f78ab60fb2034103b7/bf691/fonts/elenawebregular/elenawebregular.woff")
       format("woff");
 }
 @font-face {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   src: url("https://d33wubrfki0l68.cloudfront.net/151446eb4ad2f20af89f3132f66d03cc92c856f4/74612/fonts/elenawebregularitalic/elenawebregularitalic.woff2")
       format("woff2"),
     url("https://d33wubrfki0l68.cloudfront.net/a6275674bf99f00da2e019547d61933d074f2ae7/51beb/fonts/elenawebregularitalic/elenawebregularitalic.woff")
@@ -125,7 +125,7 @@ body{
   font-style: italic;
 }
 @font-face {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   src: url("https://d33wubrfki0l68.cloudfront.net/a7cc92a2d6ae8ea43370e14b53d2ce89a2b2b5ab/7cca9/fonts/elenawebbold/elenawebbold.woff2")
       format("woff2"),
     url("https://d33wubrfki0l68.cloudfront.net/c2ebb4866cc6ce6d5ffdb22b616cb3dde4274107/c6bc6/fonts/elenawebbold/elenawebbold.woff")
@@ -133,7 +133,7 @@ body{
   font-weight: 700;
 }
 @font-face {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   src: url("https://d33wubrfki0l68.cloudfront.net/bbc71fd1b91cc1a4ede7ea378a8bf30b9e32173e/93eeb/fonts/elenawebbolditalic/elenawebbolditalic.woff2")
       format("woff2"),
     url("https://d33wubrfki0l68.cloudfront.net/56129334a763b7d04f2f34cbbd3b4f68f72bb6d7/8045a/fonts/elenawebbolditalic/elenawebbolditalic.woff")
@@ -149,14 +149,14 @@ body{
       format("woff");
 }
 @font-face {
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   src: url("https://d33wubrfki0l68.cloudfront.net/ac1833dce386eb55d8e105248ef9126622e8e3e9/03f2d/fonts/mijaregular/mija_regular-webfont.woff2")
       format("woff2"),
     url("https://d33wubrfki0l68.cloudfront.net/0e0910ceb0e2f9adffd9db31665dafa4ec5c10ff/7214b/fonts/mijaregular/mija_regular-webfont.woff")
       format("woff");
 }
 @font-face {
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   src: url("https://d33wubrfki0l68.cloudfront.net/94691bb5497213e09480b17ef68446d2b85667e9/d58ec/fonts/mijabold/mija_bold-webfont.woff2")
       format("woff2"),
     url("https://d33wubrfki0l68.cloudfront.net/1d162cc7792bc1f04919a5a344b4082087b9e012/855b4/fonts/mijabold/mija_bold-webfont.woff")
@@ -192,7 +192,7 @@ header {
   color: rgb(255, 255, 255);
   font-size: 1rem;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 17.1505px;
   font-weight: 700;
@@ -217,7 +217,7 @@ header {
   color: rgb(51, 51, 51);
   cursor: text;
   display: block;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 19px;
   font-weight: 700;
@@ -254,7 +254,7 @@ header {
   text-align: center;
   background-color: #fff;
   text-align: center;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   position: absolute;
   top: 100px;
   font-size: 41.4919px;
@@ -268,7 +268,7 @@ header {
   text-align: center;
   background-color: #fff;
   text-align: center;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   position: absolute;
   top: 167px;
   font-size: 41.4919px;
@@ -318,7 +318,7 @@ header {
 .featured-article_writer_icon span {
   color: #fff;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 22.8937px;
   font-weight: 700;
@@ -337,7 +337,7 @@ header {
 .featured-article_title {
   color: rgb(255, 255, 255);
   cursor: pointer;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 47.5458px;
   font-weight: 700;
@@ -345,7 +345,7 @@ header {
 
 .featured-article_tags {
   color: rgb(255, 255, 255);
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 20.6253px;
   font-weight: 700;
@@ -364,13 +364,13 @@ header {
 }
 
 .first-section-content time {
-  font-family: elena;
+  font-family: 'Lato', sans-serif;
   padding: 10px;
   margin: 10px;
 }
 
 .first-section-content h2 {
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-size: 30.39px;
   font-weight: 700;
   padding: 10px;
@@ -378,7 +378,7 @@ header {
 }
 
 .first-section-content span {
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 17.7032px;
   color: rgb(102, 102, 102);
@@ -392,7 +392,7 @@ header {
 
 .first-section-content p {
   color: rgb(51, 51, 51);
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 22.6497px;
   line-height: 37.8145px;
@@ -415,7 +415,7 @@ header {
   padding-top: 50px;
   color: rgb(255, 255, 255);
   display: block;
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   text-align: center;
   width: 100%;
@@ -432,7 +432,7 @@ header {
   color: rgb(255, 255, 255);
   cursor: pointer;
   font-weight: 700;
-  font-family: "Mija";
+  font-family: 'Lato', sans-serif;
   text-decoration-line: none;
   text-shadow: rgb(56, 54, 54) 1px 2px 2px;
 }
@@ -449,7 +449,7 @@ header {
 .ad_button button {
   font-size: calc(1em + 0.25vw);
   padding: 0.75em 1em;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   background-color: rgb(255, 255, 255);
   font-size: 26.929px;
   font-weight: 700;
@@ -478,7 +478,7 @@ header {
 }
 
 .person_of_the_week_content h3 {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 19.9161px;
   letter-spacing: 2px;
@@ -522,7 +522,7 @@ header {
 
 .featured-article_writer_icon_2 span {
   color: rgb(102, 102, 102);
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 21.8361px;
   font-weight: 700;
@@ -549,7 +549,7 @@ header {
 
 .featured-article_title-2 {
   color: black;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 37.2px;
   font-weight: 700;
@@ -557,7 +557,7 @@ header {
 }
 
 .featured-article_paragraph-2 {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 22.129px;
   line-height: 37.0335px;
@@ -580,7 +580,7 @@ header {
 .featured-smashing-book-container h3 {
   color: rgb(255, 255, 255);
   display: block;
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 17.7032px;
   font-weight: 700;
@@ -590,7 +590,7 @@ header {
 .featured-smashing-book-container h2 {
   color: rgb(255, 255, 255);
   display: block;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 47.3327px;
   font-weight: 700;
@@ -600,7 +600,7 @@ header {
 .featured-smashing-book-container p {
   color: rgb(255, 255, 255);
   display: block;
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 22.129px;
   margin: 25px;
@@ -608,7 +608,7 @@ header {
 
 .featured-smashing-book-button button {
   padding: 0.75em 1em;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   background-color: rgb(255, 255, 255);
   color: #666;
   font-size: 26.929px;
@@ -637,7 +637,7 @@ header {
 }
 
 .featured-guide h5 {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 16.641px;
   font-weight: 400;
@@ -651,7 +651,7 @@ header {
   color: rgb(13, 14, 13);
   cursor: pointer;
   display: inline;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 47.5458px;
   font-weight: 700;
@@ -660,7 +660,7 @@ header {
 }
 
 .featured-guide p {
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 22.129px;
   height: 185px;
@@ -670,7 +670,7 @@ header {
 
 .featured-guide button {
   padding: 0.75em 1em;
-  font-family: Mija;
+  font-family: 'Lato', sans-serif;
   background-color: rgb(115, 116, 115);
   color: rgb(255, 255, 255);
   font-size: 26.929px;
@@ -694,7 +694,7 @@ header {
 .footer-container span {
   color: rgb(66, 66, 66);
   display: block;
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 15.9329px;
   font-weight: 700;
@@ -721,7 +721,7 @@ header {
 .footer-main-ul li a {
   color: rgb(255, 255, 255);
   text-decoration: none;
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 26.8542px;
   height: auto;
@@ -731,7 +731,7 @@ header {
 .footer-container p {
   color: rgb(255, 255, 255);
   display: block;
-  font-family: Elena;
+  font-family: 'Lato', sans-serif;
   font-feature-settings: "onum";
   font-size: 17.7032px;
   font-style: italic;
