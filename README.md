@@ -22,7 +22,7 @@ background images
 - CSS
 
 ## Live Demo
-- [Live Demo Link](https://rawcdn.githack.com/Ahmed-Benj/smashing-magazine-clone/d28de79f11bf1a775f55b2ed0744bef517eb1f4d/index.html)
+- [Live Demo Link](https://rawcdn.githack.com/Ahmed-Benj/smashing-magazine-heatmap/eb4d52f70c591ec8cb9f5c58ad8ef120c3a7afde/index.html)
 
 #### Prerequisites
 - Browser
