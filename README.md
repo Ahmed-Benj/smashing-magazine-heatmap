@@ -1,4 +1,4 @@
-# smashing magazine clone
+# smashing magazine heatmap
 
 # PROJECT : Smashing Magazine’s website (Microverse Collaborative Project)
 
