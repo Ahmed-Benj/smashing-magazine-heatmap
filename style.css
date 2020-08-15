@@ -342,8 +342,8 @@ header {
   justify-content: center;
 }
 
-.button-link > a, 
-.button-link i {
+.button-link-a,
+.button-link-i {
   color: black;
   text-align: center;
   font-size: calc(0.9em + 0.1vw);
