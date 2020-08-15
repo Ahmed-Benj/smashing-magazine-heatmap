@@ -313,10 +313,11 @@ header {
 
 .number-heading {
   font-size: 2.14857em;
+  text-decoration: underline;
+  color: #fff;
 }
 
 .number-heading-a {
-  text-decoration: underline;
   color: #fff;
 }
 
