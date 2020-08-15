@@ -686,12 +686,47 @@ header {
   padding: 20px 0;
   width: 40%;
   font-family: 'Lato', sans-serif;
-  margin: 100px 2px;
+  margin: 100px 40px;
 }
 
 .newsletter-img img{
   width: 400px;
   height: 290px;
+}
+
+.newsletter p {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  color: #fff;
+  font-size: 1em;
+  line-height: calc(1.5em + 0.2vw);
+  word-break: break-word;
+}
+
+.email-form{
+  border-bottom-left-radius: 11px;
+  border-bottom-right-radius: 11px;
+  border-top-left-radius: 11px;
+  border-top-right-radius: 11px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0 13px 27px -5px, rgba(0, 0, 0, 0.3) 0 8px 16px -8px, rgba(0, 0, 0, 0.024) 0 -6px 16px -6px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  display: flex;
+  font-family: 'Lato', sans-serif;
+  font-feature-settings: "onum";
+  font-size: 25.4484px;
+  height: 67.1563px;
+  width: 70%;
+}
+
+.nl-box__form--email{
+  width:66%;
+}
+
+.nl-box__form--button{
+  width:33%;
 }
 
 .footer {
