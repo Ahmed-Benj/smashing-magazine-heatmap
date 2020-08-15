@@ -289,7 +289,7 @@ header {
 .first-section-content {
   display: inline-block;
   width: 33%;
-  margin: 100px 2px;  
+  margin: 100px 2px;
 }
 
 .counter {
@@ -315,7 +315,7 @@ header {
   font-size: 2.14857em;
 }
 
-.number-heading a {
+.number-heading > a {
   text-decoration: underline;
   color: #fff;
 }
@@ -342,21 +342,11 @@ header {
   justify-content: center;
 }
 
-.button-link a, .button-link i {
+.button-link > a, 
+.button-link i {
   color: black;
   text-align: center;
   font-size: calc(0.9em + 0.1vw);
-}
-
-.counter p {
-  width: 70%;
-  margin: auto;
-  text-align: center;
-  padding: 10px;
-  color: #fff;
-  font-size: 1em;
-  line-height: calc(1.5em + 0.2vw);
-  word-break: break-word;
 }
 
 .a {
@@ -689,12 +679,12 @@ header {
   margin: 100px 40px;
 }
 
-.newsletter-img img{
+.newsletter-img-img {
   width: 400px;
   height: 290px;
 }
 
-.newsletter p {
+.newsletter-p {
   width: 70%;
   margin: auto;
   text-align: center;
@@ -705,7 +695,7 @@ header {
   word-break: break-word;
 }
 
-.email-form{
+.email-form {
   border-bottom-left-radius: 11px;
   border-bottom-right-radius: 11px;
   border-top-left-radius: 11px;
@@ -721,12 +711,12 @@ header {
   width: 70%;
 }
 
-.nl-box__form--email{
-  width:66%;
+.nl-box__form--email {
+  width: 66%;
 }
 
-.nl-box__form--button{
-  width:33%;
+.nl-box__form--button {
+  width: 33%;
 }
 
 .footer {
