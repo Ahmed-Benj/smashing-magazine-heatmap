@@ -315,7 +315,7 @@ header {
   font-size: 2.14857em;
 }
 
-.number-heading > a {
+.number-heading-a {
   text-decoration: underline;
   color: #fff;
 }
